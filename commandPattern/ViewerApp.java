@@ -1,20 +1,10 @@
 package commandPattern;
 
-public class ViewerApp {
+public class viewerApp {
 
     public static void main(String[] args){
 
-        Tv tv = new Tv();
-
-        RemoteControl rc = new RemoteControl();
-
-        PowerOn powerOn = new PowerOn(tv);
-        System.out.println(powerOn.execute());
-
-        PowerOff powerOff = new PowerOff(tv);
-        System.out.println(powerOff.execute());
-
-
+        RemoteControl ch = new RemoteControl();
 
     }
 }
