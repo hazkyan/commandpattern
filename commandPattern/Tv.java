@@ -1,13 +1,16 @@
 package commandPattern;
 
-public class Tv {
+public class Tv implements Command{
 
-    public String switchOn(){
-        return "Tv is switched-on!";
-
+    @Override
+    public String option1() {
+        String str = "TV screen on. Let's watch";
+        return str;
     }
-
-    public String switchOff(){
-        return "Tv is switched-off!";
+   
+    @Override
+    public String option2() {
+        String str = "TV has turned off. Bye :< ";
+        return str;
     }
 }
