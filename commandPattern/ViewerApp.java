@@ -1,6 +1,6 @@
 package commandPattern;
 
-public class viewerApp {
+public class ViewerApp {
 
     public static void main(String[] args){
 
