@@ -15,4 +15,4 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 ---
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/commandpattern/assets/142370600/803de011-db55-482b-8008-b0cf8c07bd1e)
+![image](UML class.jpeg)
