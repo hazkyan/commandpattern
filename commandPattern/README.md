@@ -15,4 +15,4 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 ---
 
 ## Class Diagram
-![image](UML.jpeg)
+![image](uml.jpeg)
