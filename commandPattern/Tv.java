@@ -10,11 +10,4 @@ public class Tv {
         System.out.println("Tv is switched-off");
     }
 
-    public void increase(){
-        System.out.println("Lights is switched-off");
-    }
-
-    public void switchOff(){
-        System.out.println("Lights is switched-off");
-    }
 }
